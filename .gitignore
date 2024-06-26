@@ -5,6 +5,15 @@ __pycache__/
 
 # C extensions
 *.so
+*.zip
+*.gz
+*.csv
+*.gzip
+*.feather
+*.geofeather
+*.parquet
+*.geoparquet
+data/
 
 # Distribution / packaging
 .Python
