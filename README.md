@@ -19,6 +19,9 @@ The second part of the study focused on using FIRMS fire data to predict violent
 
 The **Fixed Effects Model** with entity and time controls emerged as the most effective model, demonstrating statistically significant results, better handling of residual correlations, normality and heteroskedasticity. The model confirms a positive correlation between fire counts and conflicts, with a 1% increase in fire count resulting in a 0.0157% increase in conflict count.
 
+
+**DATA** is in the gitignore file. If need an access please contact [me](https://www.linkedin.com/in/sameerasiddiqui/)
+
 This study underscores the global potential of FIRMS fire data for monitoring conflict zone. The approach is particularly valuable for real-time monitoring in remote or restricted areas, such as Sudan, and scalable owning to global availability of underlying FIRMS and ACLED data.
 
 
